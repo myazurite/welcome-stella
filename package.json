@@ -1,0 +1,10 @@
+{
+  "name": "new-project",
+  "author": "zephyria",
+  "publish": false,
+  "dependencies": {
+    "lib": "latest",
+    "canvas": "^2.9.1",
+    "@canvas-fonts/arial": "^1.0.4"
+  }
+}
